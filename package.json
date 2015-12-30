@@ -1,0 +1,14 @@
+{
+  "name": "chathistory",
+  "version": "1.0.0",
+  "description": "Chat history analytics from facebook messenger",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sourabh Shirhatti",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
+}

@@ -1,0 +1,7 @@
+{
+    "SelfID": "Your Facebook ID", 
+    "FriendID": "Facebook ID of the person you want to compute stats against",
+    "Offset": 0,
+    "Limit": 15000,
+    "Cookie": "Sign into facebook from your browser and copy this cookie"
+}
